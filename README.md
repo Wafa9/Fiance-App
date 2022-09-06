@@ -18,15 +18,6 @@ Halalah app is a personal finance manager that you can access any time under sma
 
 
 
-
-
-## Authors
-
-- [@Wafa ALTuraifi](https://code.tamkeen.cloud/plugins/servlet/user-contributions/w.alturaifi?view=summary)
-- [@Lama Aldohayan](https://code.tamkeen.cloud/plugins/servlet/user-contributions/l.aldohayan?view=summary)
-
-
-
 ## Prerequisites :
 - Python 3
 - Virtual env
@@ -41,7 +32,7 @@ Halalah app is a personal finance manager that you can access any time under sma
 
 - From the terminal,``` run Expo start```
 
-- Clone the  [Backend repo](https://code.tamkeen.cloud/projects/QT/repos/team1-backend/browse) 
+- Clone the  [Backend repo](https://github.com/Wafa9/Fiance-App-backend) 
 
 
 ## Deployment
@@ -69,6 +60,3 @@ Run it ( expo start )
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-## License
-[Tamkeen Technologies](https://tsp.tamkeentech.sa/)
